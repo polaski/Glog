@@ -1,5 +1,5 @@
 {
-    "blog_repository"   : "git@github.com:guyht/Guido.git",
+    "blog_repository"   : "https://github.com/polaski/Guido.git",
     "author"            : "Glog",
     "blog_title"        : "The Glob Blog",
     "port"              : 8080,
